@@ -4,13 +4,13 @@ import Link from "next/link";
 export default function Projects() {
     const userData =  [
         {
-          title: "Tailwind Master Kit",
+          title: "Project1",
           description: "The hero section lets you grab people's attention. If you do it right, it can help you land your first job.",
           link: "https://tailwindmasterkit.com",
           imgUrl: "/tmk.jpg",
         },
         {
-          title: "PlaceholderTech",
+          title: "Project2",
           link: "https://placeholdertech.in",
           imgUrl: "/placeholdertech.png",
         },
